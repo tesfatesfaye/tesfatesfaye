@@ -4,7 +4,6 @@
 
 <img align="right" alt="Codinggif" width="400" src="https://camo.githubusercontent.com/ee791c255cf59c4b22cf1a3fe7854d5171b49dea5ff329074ba89d7a110d420d/68747470733a2f2f66696c65732e726561646d652e696f2f386331313931312d73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tesfatesfaye&label=Profile%20views&color=0e75b6&style=flat" alt="tesfatesfaye" /> </p>
 
 - 🌱 I’m currently learning **DevOps,AWS,ReactNative**
 
