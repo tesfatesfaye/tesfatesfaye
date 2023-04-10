@@ -1,5 +1,5 @@
 
-![MasterHead](https://i.ibb.co/pZRWwBR/gif-Imagehead.gif)
+![MasterHead](https://i.ibb.co/425ZYSY/black-and-white.gif)
 
 <head>
   <link rel="stylesheet" type="text/css" href="https://dl.dropbox.com/s/vd9spmpuazqmyp4/markdownTwo.css">
