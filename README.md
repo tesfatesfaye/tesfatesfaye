@@ -28,4 +28,5 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tesfatesfaye&show_icons=true&theme=transparent" alt="tesfatesfaye stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tesfatesfaye&theme=highcontrast" alt="tesfatesfaye" /></p>
 
