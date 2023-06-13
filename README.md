@@ -5,16 +5,13 @@
   <link rel="stylesheet" type="text/css" href="https://dl.dropbox.com/s/vd9spmpuazqmyp4/markdownTwo.css">
 </head>
 
-<h1 align="center">Hi 👋, I'm Tesfa</h1>
+<h1 align="center">I'm Tesfa</h1>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tesfatesfaye&theme=transparent" alt="tesfatesfaye" /></a> </p> -->
-<h6>Hi there! My name is Tesfa and I'm a passionate software developer based in Cambridge, MA. I specialize in web development and my primary focus is on utilizing technologies such as React, Git, Tailwinds, Node, MongoDB, MySQL, TypeScript, and Nextjs to create high-quality, responsive, and scalable web applications. Aside from my web development skills, I also have experience working with Java and Python. I'm constantly learning and expanding my skill set to stay up-to-date with the latest technologies and techniques.</h6>
+<h6>My name is Tesfa and I'm a software developer based in Cambridge, MA. I specialize in web development and my primary focus is on utilizing technologies such as React, Git, Tailwinds, Node, MongoDB, MySQL, TypeScript, and Nextjs to create high-quality, responsive, and scalable web applications. Aside from my web development skills, I also have experience working with Java and Python. I'm constantly learning and expanding my skill set to stay up-to-date with the latest technologies and techniques.</h6>
 
 <img align="right" alt="Codinggif" width="400" src="https://camo.githubusercontent.com/ee791c255cf59c4b22cf1a3fe7854d5171b49dea5ff329074ba89d7a110d420d/68747470733a2f2f66696c65732e726561646d652e696f2f386331313931312d73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966"/>
 
 
-- 🌱 I’m currently learning **DevOps,AWS,ReactNative**
-
-- 💬 Ask me about **React,node,MySQL,MongoDB,Javascript,Java and Python**
 
 - 📫 How to reach me **tesfatesfaye06@gmail.com**
 
