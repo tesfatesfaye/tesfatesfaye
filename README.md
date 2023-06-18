@@ -13,7 +13,7 @@
 
 
 
-- 📫 How to reach me **tesfa@tesfaget.dev**
+- 📫 How to reach me **t@tesfaget.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
