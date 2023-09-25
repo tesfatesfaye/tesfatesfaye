@@ -6,7 +6,7 @@
 </head>
 
 <h1 align="center">I'm Tesfa</h1>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tesfatesfaye&theme=transparent" alt="tesfatesfaye" /></a> </p> -->
+
 
 <h6>Welcome to my personal GitHub profile.I'm a software developer based in Cambridge, MA. I specialize in web development and my primary focus is utilizing technologies such as React, Git, Tailwinds, Node, MongoDB, MySQL, TypeScript, and Nextjs to create high-quality, responsive, and scalable web applications. Aside from my web development skills, I also have experience working with Java and Python. I'm constantly learning and expanding my skill set to stay up-to-date with the latest technologies and techniques.</h6>
 
