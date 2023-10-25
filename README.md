@@ -1,6 +1,4 @@
-
-[![image](https://www.linkpicture.com/q/black-and-white.gif)](https://www.linkpicture.com/view.php?img=LPic643743ff3353a1635207414)
-
+[![image](https://drive.google.com/uc?export=view&id=1AqMKb8UNQmZki7ytLaJ_jqHmTnwMXc9V)](https://drive.google.com/file/d/1AqMKb8UNQmZki7ytLaJ_jqHmTnwMXc9V/view)
 
 <head>
   <link rel="stylesheet" type="text/css" href="https://dl.dropbox.com/s/vd9spmpuazqmyp4/markdownTwo.css">
