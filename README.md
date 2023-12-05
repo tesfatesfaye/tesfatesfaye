@@ -1,4 +1,4 @@
-[![image](https://drive.google.com/uc?export=view&id=1AqMKb8UNQmZki7ytLaJ_jqHmTnwMXc9V)](https://drive.google.com/file/d/1AqMKb8UNQmZki7ytLaJ_jqHmTnwMXc9V/view)
+![Alt text](https://drive.google.com/uc?export=download&id=1AqMKb8UNQmZki7ytLaJ_jqHmTnwMXc9V)
 
 <head>
 
