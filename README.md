@@ -44,6 +44,30 @@
     <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></td>
     <td align="center"><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>
+    <a href="https://graphql.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+    </a>
+</td>
+<td>
+    <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+    </a>
+</td>
+<td>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+</td>
+<td>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    </a>
+</td>
+<td>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  </tr>
 </table>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tesfatesfaye&show_icons=true&theme=transparent&include_all_commits=true" alt="tesfatesfaye stats" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tesfatesfaye&theme=transparent" alt="tesfatesfaye" /></p>
