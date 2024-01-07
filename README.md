@@ -9,7 +9,9 @@
 
 <h6 color="black">Welcome to my personal GitHub profile.I'm a software developer based in Cambridge, MA. I specialize in web development and my primary focus is utilizing technologies such as React, Git, Tailwinds, Node, MongoDB, MySQL, TypeScript, and Nextjs to create high-quality, responsive, and scalable web applications. Aside from my web development skills, I also have experience working with Java and Python. I'm constantly learning and expanding my skill set to stay up-to-date with the latest technologies and techniques.</h6>
 
-<img align="right" alt="Codinggif" width="400" src="https://camo.githubusercontent.com/ee791c255cf59c4b22cf1a3fe7854d5171b49dea5ff329074ba89d7a110d420d/68747470733a2f2f66696c65732e726561646d652e696f2f386331313931312d73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966"/>
+
+
+
 
 
 
@@ -19,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/tesfa-tesfaye/?original_referer=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tesfa-tesfaye/?original_referer=" height="30" width="40" /></a>
 </p>
-
+<img src="https://drive.google.com/uc?id=19NEebkpjt-2e7u9RDGVSR_6h9AVDfijO" align="right" widht="400px" height="400px" alt="coding">
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
