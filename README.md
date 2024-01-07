@@ -8,12 +8,7 @@
 
 
 <h6 color="black">Welcome to my personal GitHub profile.I'm a software developer based in Cambridge, MA. I specialize in web development and my primary focus is utilizing technologies such as React, Git, Tailwinds, Node, MongoDB, MySQL, TypeScript, and Nextjs to create high-quality, responsive, and scalable web applications. Aside from my web development skills, I also have experience working with Java and Python. I'm constantly learning and expanding my skill set to stay up-to-date with the latest technologies and techniques.</h6>
-
-
-
-
-
-
+<img src="https://drive.google.com/uc?id=19NEebkpjt-2e7u9RDGVSR_6h9AVDfijO" align="right" widht="300px" height="300px" alt="coding">
 
 - 📫 How to reach me **t@tesfaget.dev**
 
@@ -21,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/tesfa-tesfaye/?original_referer=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tesfa-tesfaye/?original_referer=" height="30" width="40" /></a>
 </p>
-<img src="https://drive.google.com/uc?id=19NEebkpjt-2e7u9RDGVSR_6h9AVDfijO" align="right" widht="400px" height="400px" alt="coding">
+
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
