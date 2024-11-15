@@ -66,6 +66,4 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   </tr>
 </table>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tesfatesfaye&show_icons=true&theme=transparent&include_all_commits=true" alt="tesfatesfaye stats" /></p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tesfatesfaye&theme=transparent" alt="tesfatesfaye" /></p>
 
