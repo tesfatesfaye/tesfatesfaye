@@ -35,11 +35,11 @@
     <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></td>
+    <td align="center"><a href="https://https://ui.shadcn.com/docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tesfatesfaye/Custom-svg-links/refs/heads/main/shadcn.svg" alt="shadcn" width="40" height="40"/> </a></td>
     <td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></td>
     <td align="center"><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></td>
-    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></td>
-    <td align="center"><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></td>
+    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tesfatesfaye/Custom-svg-links/refs/heads/main/bash.svg" alt="bash" width="40" height="40"/> </a></td>
+    <td align="center"><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tesfatesfaye/Custom-svg-links/refs/heads/main/express.svg" alt="express" width="40" height="40"/> </a></td>
   </tr>
   <tr>
     <td>
