@@ -7,7 +7,7 @@
 <h1 align="center" color="black">I'm Tesfa</h1>
 
 
-<h6 color="black">Welcome to my personal GitHub profile! I'm a software developer based in the North East, specializing in web development. My primary focus is on utilizing technologies such as React, Git, Tailwind CSS, Node.js, MongoDB, MySQL, TypeScript, and Next.js to create high-quality, responsive, and scalable web applications. In addition to my web development expertise, I also have experience working with Java and Python. I'm constantly learning and expanding my skill set to stay up-to-date with the latest technologies and techniques.</h6>
+<h6 color="black">Welcome to my personal GitHub profile! I'm a software developer based in the North East, specializing in web development. My primary focus is on utilizing technologies such as React, Git, Tailwind CSS, Node.js, MongoDB, MySQL, TypeScript, Shadcn/UI, and Next.js to create high-quality, responsive, and scalable web applications. In addition to my web development expertise, I also have experience working with Java and Python. I'm constantly learning and expanding my skill set to stay up-to-date with the latest technologies and techniques.</h6>
 <img src="https://drive.google.com/uc?id=19NEebkpjt-2e7u9RDGVSR_6h9AVDfijO" align="right" widht="300px" height="300px" alt="coding">
 
 - 📫 How to reach me **t@tesfaget.dev**
